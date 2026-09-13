@@ -2,5 +2,5 @@
 #include "my_lib.h"
 
 void hello_world(){
-    pringt("hello world!\n");
+    printk("hello world!\n");
 }
